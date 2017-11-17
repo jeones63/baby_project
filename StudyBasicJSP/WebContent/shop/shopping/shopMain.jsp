@@ -34,7 +34,7 @@
 		  
 		}
 	</style>
-	<!-- 주석 추가 -->
+	
   </head>
   <body onscroll="myFunction()">
     <!-- Navigation -->
